@@ -1,0 +1,23 @@
+
+Nosso horário de atendimento por este canal é de Segunda a Sexta-feira das 08:00hrs às 18:00hrs e aos Sábados das 08:00hrs às 12:00hrs. 
+Caso necessite de atendimento, entre em contato com a nossa equipe de plantonistas por meio dos canais de atendimento descritos em nossa Wiki.  
+
+Os procedimentos para acionamento emergencial e nosso Escalation List podem ser obtidos em:
+
+https://wiki.you.solutions/books/procedimento-para-acionamentos-emergenciais 
+
+Atualizações de tickets existentes ou solicitações não emergenciais, podem ser realizadas em:
+
+https://help.you.solutions 
+
+
+Obs.:  Este bot está sendo executado em caráter de testes. 
+Para reportar erros e/ou sugerir ideias, acesse o formulário abaixo: 
+
+
+https://form.you.solutions
+
+
+Seguimos a disposição. 
+
+Equipe You Soluções
